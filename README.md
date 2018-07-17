@@ -11,7 +11,7 @@ As of the initial commit we have only processed the national assembly constituen
 * [pk_candidate_registry_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/pk_candidate_registry_2018.csv) is the transcribed final candidate lists (currently national assembly only).
 * [pk_constituency_candidate_count_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/pk_constituency_candidate_count_2018.csv) is a count of the number of candidates per constituency.
 * [pk_party_candidate_count_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/pk_party_candidate_count_2018.csv) is a count of the number of candidates per party, per province.
-* [party_list_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/party_list_2018.csv) is a reference key file generated from the [ECP's list of registered parties and election symbols](https://www.ecp.gov.pk/frmGenericPage.aspx?PageID=3090).
+* [pk_party_list_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/pk_party_list_2018.csv) is a reference key file generated from the [ECP's list of registered parties and election symbols](https://www.ecp.gov.pk/frmGenericPage.aspx?PageID=3090).
 
 ## Caveats and gaps in the data
 
