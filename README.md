@@ -6,6 +6,8 @@ The [data folder](https://github.com/colincookman/pakistan_candidate_registry_18
 
 As of the initial commit we have only processed the national assembly constituencies and have not completed work on provincial assembly lists. These will be updated as we are able to, or otherwise generated from final results lists.
 
+For questions, suggestions, or to contribute, please leave an issue here or contact the contributors, Colin Cookman and Mohammad Zohaib.
+
 ## File descriptions
 
 * [pk_candidate_registry_2018.csv](https://github.com/colincookman/pakistan_candidate_registry_18/blob/master/pk_candidate_registry_2018.csv) is the transcribed final candidate lists (currently national assembly only).
